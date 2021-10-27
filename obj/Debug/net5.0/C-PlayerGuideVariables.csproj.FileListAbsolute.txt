@@ -1,0 +1,16 @@
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\bin\Debug\net5.0\C-PlayerGuideVariables.exe
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\bin\Debug\net5.0\C-PlayerGuideVariables.deps.json
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\bin\Debug\net5.0\C-PlayerGuideVariables.runtimeconfig.json
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\bin\Debug\net5.0\C-PlayerGuideVariables.runtimeconfig.dev.json
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\bin\Debug\net5.0\C-PlayerGuideVariables.dll
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\bin\Debug\net5.0\ref\C-PlayerGuideVariables.dll
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\bin\Debug\net5.0\C-PlayerGuideVariables.pdb
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.csproj.AssemblyReference.cache
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.AssemblyInfoInputs.cache
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.AssemblyInfo.cs
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.csproj.CoreCompileInputs.cache
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.dll
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\ref\C-PlayerGuideVariables.dll
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.pdb
+C:\Users\falle\OneDrive\Desktop\C-PlayerGuideVariables\obj\Debug\net5.0\C-PlayerGuideVariables.genruntimeconfig.cache
